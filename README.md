@@ -56,8 +56,13 @@ The primary hurdle in this project is not the theoretical PID mathematics, but o
 - [ ] **Planned:** Integration of Bluetooth SPP telemetry for live graphical tuning of PID gains via serial plotters.
 
 ---
+## 4. System Architecture Overview
 
-## 4. Repository Structure
+<p align="center">
+  <img src="So do he thong.png" alt="System Architecture Overview" width="100%">
+</p>
+
+## 5. Repository Structure
 
 ```text
 esp32-self-balancing-robot/
