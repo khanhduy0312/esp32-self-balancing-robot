@@ -7,6 +7,7 @@
 
 An embedded control systems project implementing a real-time **100Hz Closed-Loop Self-Balancing Robot** on an ESP32 microcontroller. This repository documents an ongoing engineering effort to design, tune, and stabilize an inverted pendulum robot under severe non-ideal mechanical constraints: **encoderless TT DC motors**, **3°–6° plastic gearbox backlash**, and **structural vibration feedback loops**.Because the system's framework cannot be customized, it poses a significant challenge for addressing the issue of inertial forces.
 
+[![Watch the demo video]](https://www.youtube.com/shorts/h5zE2N_4hgM)
 ---
 
 ## 1. System Architecture & Mechanical Specifications
